@@ -1,0 +1,77 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: url(http://cloudtweaks.com/wp-content/uploads/2014/01/security-breach.jpg) no-repeat center center;
+    background-color: black;
+    background-size: cover;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+}
+
+.navBar {
+    height: 40px;
+    background-color: #D3D3D3;
+    border-bottom: 2px solid grey;
+    text-align: left;
+}
+
+.link {
+    padding: 20px;
+    vertical-align: middle;
+    border: 1px solid black;
+    text-decoration: none;
+    font-family: Verdana, sans-serif;
+    color: black;
+}
+
+
+.container {
+    display: inline-block;
+}
+
+span {
+    color: red;
+    font-family: cursive;
+    font-size:24px;
+}
+
+p {
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight:600;
+    font-size:12px;
+    clear:both;
+    float:right;
+    margin-top: 25px;
+}
+
+.button {
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    letter-spacing: 1.3px;
+    padding: 16px 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+    clear:both;
+    float:right;
+    margin-right: 50px;
+    border: solid white;
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+}
+
+.image {
+    margin-top: 50px;
+    height: 304px;
+    width: 303px;
+    border: solid grey;
+    
+
+}
+
