@@ -1,1 +1,1 @@
-# PersonalWeb
+This README file is meant to talk a little bit about the versions of my personal website on the journey to adding it to my portfolio. This is meant to show my skills in programming and will be updated as I make big changes. 

@@ -1,0 +1,12 @@
+{
+	"name": "sebastian-salvo",
+	"version": "0.0.1",
+	"description": "Personal Website",
+	"author": "Sebastian Salvo",
+	"private": true,
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+	}
+}
